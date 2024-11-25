@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pankajyadav86
-- 👀 I’m interested in ... coding( python c,c++)
+- 👀 I’m interested in ... coding( python ,java)
 - 🌱 I’m currently learning ...web development and python 
 - 💞️ I’m looking to collaborate on ...web development 
 - 📫 How to reach me ...on my email pankaj86015anu@gmail.com
